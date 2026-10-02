@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MyGoatFarm" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#166534</item>
+        <item name="colorPrimary">#166534</item>
+        <item name="colorPrimaryContainer">#D9F0DF</item>
+    </style>
+</resources>
